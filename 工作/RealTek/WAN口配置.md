@@ -1,0 +1,6 @@
+WAN\_PHY\_PORT
+
+flash set "ETH\_WAN\_PORT\_PHY\_INDEX" "6"
+
+flash set "PORT_REMAPPING" "00,01,02,03,00,00,00,00"
+
